@@ -1,7 +1,7 @@
 # WhatRTypes4
 being the materials from my YOW LambdaJam 2016 talk
 
-On the afternoon of Tuesday 26 April, 2016, Conor McBride was hosting the [23rd Agda Implementors Meeting](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.AIMXXIII) at the university of Strathclyde. He ducked
+On the afternoon of Tuesday 26 April, 2016, Conor McBride was hosting the [23rd Agda Implementors Meeting](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.AIMXXIII) at the University of Strathclyde. He ducked
 out to give his last [CS410](https://github.com/pigworker/CS410-15) lecture of the year, then filled a bag
 with whisky and clothes and headed to Glasgow airport.
 
