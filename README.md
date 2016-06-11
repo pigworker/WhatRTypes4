@@ -1,4 +1,4 @@
-# WhatRTypes4
+# What are Types For, or are they only Against?
 being the materials from my YOW LambdaJam 2016 talk
 
 On the afternoon of Tuesday 26 April, 2016, I was hosting the [23rd Agda Implementors Meeting](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.AIMXXIII) at the University of Strathclyde. I ducked
